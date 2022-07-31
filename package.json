@@ -1,0 +1,25 @@
+{
+  "name": "gitsamplecode",
+  "version": "1.0.0",
+  "description": "using npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunSamples/MEAN_Phase1.git"
+  },
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunSamples/MEAN_Phase1/issues"
+  },
+  "homepage": "https://github.com/ArunSamples/MEAN_Phase1#readme",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
+}
